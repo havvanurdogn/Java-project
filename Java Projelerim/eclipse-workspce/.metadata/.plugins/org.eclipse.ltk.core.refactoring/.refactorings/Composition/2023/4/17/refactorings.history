@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Compositon&apos; to &apos;Composition&apos;&#x0D;&#x0A;- Original project: &apos;Composition&apos;&#x0D;&#x0A;- Original element: &apos;Composition/src/Compositon&apos;&#x0D;&#x0A;- Renamed element: &apos;Composition/src/Composition&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Compositon&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Compositon" name="Composition" qualified="false" references="true" stamp="1682259345339" textual="false" version="1.0"/>
+</session>

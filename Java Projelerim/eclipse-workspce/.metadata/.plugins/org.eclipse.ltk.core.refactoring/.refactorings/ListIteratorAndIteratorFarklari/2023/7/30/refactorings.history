@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ListIteratorAndIteratorFarkları&apos; to &apos;ListIteratorAndIteratorFarklari&apos;&#x0D;&#x0A;- Original project: &apos;ListIteratorAndIteratorFarklari&apos;&#x0D;&#x0A;- Original element: &apos;ListIteratorAndIteratorFarklari/src/ListIteratorAndIteratorFarkları&apos;&#x0D;&#x0A;- Renamed element: &apos;ListIteratorAndIteratorFarklari/src/ListIteratorAndIteratorFarklari&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ListIteratorAndIteratorFarkları&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ListIteratorAndIteratorFarkları" name="ListIteratorAndIteratorFarklari" qualified="false" references="true" stamp="1690137753500" textual="false" version="1.0"/>
+</session>

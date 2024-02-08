@@ -1,0 +1,7 @@
+Orhan Tasli,Matematik Muhendisligi 
+Kenan Yalcin,Insaat Muhendisligi 
+Ali Cabbar,Bilgisayar Muhendisligi 
+Sumeyye Orhan,Bilgisayar Muhendisligi 
+Ayse Yilmaz,Bilgisayar Muhendisligi 
+Fatma Dogan,Makine Muhendisligi 
+Deniz Sozeri,Elektrik Muhendisligi 

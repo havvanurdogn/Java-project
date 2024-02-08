@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.thread.learn.Creat&apos; to &apos;Create&apos;&#x0D;&#x0A;- Original project: &apos;ThreadOgreniyorum&apos;&#x0D;&#x0A;- Original element: &apos;com.thread.learn.Creat&apos;&#x0D;&#x0A;- Renamed element: &apos;com.thread.learn.Create&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Creat&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.thread.learn{Creat.java[Creat" matchStrategy="1" name="Create" qualified="false" references="true" similarDeclarations="false" stamp="1693420287101" textual="false" version="1.0"/>
+</session>

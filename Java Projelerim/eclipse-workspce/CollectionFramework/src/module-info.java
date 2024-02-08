@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dogan
+ *
+ */
+module CollectionFramework {
+}

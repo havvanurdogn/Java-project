@@ -1,0 +1,9 @@
+Idman Programi
+Burpee Sayisi : 20 
+Pushup Sayisi : 20 
+Situp Sayisi : 20 
+Squat Sayisi : 20 
+1. İslem ------> Hareket : Burpee || Sayısı : 20 
+2. İslem ------> Hareket : Pushup || Sayısı : 20 
+3. İslem ------> Hareket : Situp || Sayısı : 20 
+4. İslem ------> Hareket : Squat || Sayısı : 20 
