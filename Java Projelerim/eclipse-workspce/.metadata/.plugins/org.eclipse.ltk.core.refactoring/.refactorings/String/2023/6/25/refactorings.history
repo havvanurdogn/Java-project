@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;String.LinkedList&apos; to &apos;LinkedList_Tanim&apos;&#x0D;&#x0A;- Original project: &apos;String&apos;&#x0D;&#x0A;- Original element: &apos;String.LinkedList&apos;&#x0D;&#x0A;- Renamed element: &apos;String.LinkedList_Tanim&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LinkedList&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;String{LinkedList.java[LinkedList" matchStrategy="1" name="LinkedList_Tanim" qualified="false" references="true" similarDeclarations="false" stamp="1686945000475" textual="false" version="1.0"/>
-</session>
