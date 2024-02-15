@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author dogan
- *
- */
-module Abstract {
-}
